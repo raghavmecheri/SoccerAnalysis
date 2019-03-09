@@ -62,7 +62,6 @@ target/
 # Notebook Checkpoints
 .ipynb_checkpoints/
 .ipynb_checkpoints/TransferAnalysis-checkpoint.ipynb
-*.ipynb
 
 # Datasets
 /dataset
